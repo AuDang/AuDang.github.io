@@ -79,8 +79,8 @@ input, select, textarea {
 	object-fit: cover;
 }
 .profile-picture {
-	height:350px;
-	width:350px;
+	height:200px;
+	width:200px;
 	border-radius: 50%;
 	margin-bottom: 30px;
 }
